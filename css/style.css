@@ -1,9 +1,28 @@
 html {
-  align-content: center;
+  font-family: Courier New;
+  background-image: url(../images/background-1.jpg);
+}
+
+.main {
   text-align: center;
+  margin: 0 auto;
+  background-image: url(../images/background-3.jpg);
+  border-style: solid;
+  border-color: #8A8A8A;
+  width: 1500px;
+  height: 3000px;
+}
+
+.navbar {
+/* background-color: Black; */
+height: 700px;
+width: 350px;
 }
 
 .header {
+  border: thick dotted coral;
+  margin: 0 auto;
+  background-color: SeaGreen;
   width: 600px;
   height: 150px;
 }
