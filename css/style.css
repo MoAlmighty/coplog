@@ -3,6 +3,29 @@ html {
   background-image: url(../images/background-1.jpg);
 }
 
+th, td {
+  color: White;
+  border: 1px solid White;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+th {
+  background-color: Black;
+}
+
+h1 {
+  color: White;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+h2 {
+  color: #545454;
+  font-size: 30px;
+  font-weight: 600;
+}
+
 .main {
   text-align: center;
   margin: 0 auto;
@@ -14,7 +37,6 @@ html {
 }
 
 .navbar {
-  position: inline;
 background-color: Black;
 height: 700px;
 width: 350px;
